@@ -1,6 +1,6 @@
 <p align="center">
     <!-- badge koding assembly-->
-    <img alt="Banner Koding" src="https://github.com/IDScript/.github/blob/main/profile/IDScript_2.png?raw=true"><br>
+    <img alt="Banner Koding" src="https://github.com/IDScript/.github/blob/main/IDScript_2.png?raw=true"><br>
 </p>
 
 ## Tentang IDScript
